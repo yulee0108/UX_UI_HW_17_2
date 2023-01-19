@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
+.inline-blcok {
+    display: inline-block;
+    
+}
+.logo {
+    display: inline-block;
+    
+
+}
+nav {    
+    display: inline-block;
+    
+
+}
+ul {
+    margin-left: auto;
+}
+a {
+    font-family: 'Notable', sans-serif;
+    font-size: 36pt;
+    padding: 40px;
+}
+.heroImg {
+    height: 600px;
+    padding: 25px;
+    align-items: center;
+}
+.heroImg img {
+    height:600px;
+    width: 1000px;
+    
+}
+.content {
+    width: 1000px;
+    margin: 0 auto;
+}
+footer {
+    background-color: #373738;
+}
+footer ul {
+    display: inline-block;
+    color: white;
+}
+p {
+    font-family: 'Alumni Sans', sans-serif;
+    font-size: 32pt;
+    font-weight: 600;
+}
+body {
+    background-color: #E0E0E0;
+}
+button {
+    
+}
+    
